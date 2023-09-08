@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello I am Harshil Patel
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Popins&weight=600&size=22&duration=6000&pause=1000&color=2784F7&center=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Harshil+Patel.;I'm+Software+Developer.)](https://git.io/typing-svg)
+
 
 
 ## 🌐 Socials:
